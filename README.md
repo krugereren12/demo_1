@@ -1,4 +1,4 @@
 # demo_1
 starting with github 
 <br>
-Author - nishant 
+Author - nishant kamehameha
